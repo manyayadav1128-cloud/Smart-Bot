@@ -1,4 +1,4 @@
-Smart-Bot 🤖📡
+## Smart-Bot 🤖📡
 
 
 An ESP8266-based autonomous robot that navigates using infrared sensors (object avoidance + edge/line detection), measures its own speed, and publishes live **temperature**, **humidity**, and **speed** data to **Adafruit IO** over WiFi/MQTT for remote monitoring and dashboards.
